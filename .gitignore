@@ -1,0 +1,5 @@
+# Ignore the build directory
+bin/
+
+# Ignore the objects directory
+obj/

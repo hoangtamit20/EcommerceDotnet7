@@ -1,0 +1,2 @@
+# Do not ignore the build directory
+!bin/Debug/net7.0/Ecommerce.API.xml
